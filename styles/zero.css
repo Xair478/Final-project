@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+html{
+    font-family: 'Nunito', sans-serif;!important;
+
+}
+body{
+    background-color: #FFC18E!important;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none!important;;
+    color: #513252!important;
+    transition: all 1s;
+}
+a:hover{
+    color: #dc7297;
+}
